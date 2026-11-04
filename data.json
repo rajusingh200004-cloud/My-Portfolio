@@ -1,0 +1,236 @@
+{
+ "name": "Raju Singh",
+ "headline": "Senior Business Analyst & Power BI Developer | MIS Reporting & MIS Lead • Data Analyst",
+ "email": "Raju.Singh.200004@gmail.com",
+ "phone": "+91-74041-39518",
+ "location": "Noida, Uttar Pradesh India",
+ "links": {
+  "linkedin": "https://www.linkedin.com/in/raju-singh-rs",
+  "portfolio": "https://rajusingh200004-cloud.github.io/Portfolio/",
+  "github": "https://github.com/rajusingh200004-cloud"
+ },
+ "summary": " Senior Business Analyst and Power BI Developer with 6.5+ years across BPO, operations, healthcare, and HR domains. Built automated MIS pipelines and KPI dashboards that reduced reporting time by 67% and eliminated 15+ hours of manual work per week. Core stack: Power BI, DAX, Power Query, SQL, ETL, and Star Schema modeling. Experienced in BRD/FRD documentation, stakeholder management, UAT, and AI-assisted analytics. Targeting Power BI Developer, MIS Lead, and Senior Business Analyst roles in Noida, Gurugram, and Delhi NCR. ",
+ "kpis": [
+  {
+   "value": "6.5+ yrs",
+   "label": "Years of experience"
+  },
+  {
+   "value": "67%",
+   "label": "Built automated MIS pipelines and KPI dashboards that reduced reporting time by 67% and eliminated 15+ hours of manual work per week",
+   "tag": ""
+  },
+  {
+   "value": "30%",
+   "label": "Designed interactive Power BI dashboards using DAX, Power Query, and advanced data modeling, reducing reporting time by 30%",
+   "tag": "Provana India Pvt. Ltd."
+  },
+  {
+   "value": "30%",
+   "label": "Automate MIS reporting and reporting workflows, reducing manual reporting effort by more than 30%",
+   "tag": "Provana India Pvt. Ltd."
+  },
+  {
+   "value": "6h → <2h",
+   "label": "Automated MIS reports (Daily–YTD), cutting report time from 6 to under 2 hours",
+   "tag": "i-Energizer Pvt. Ltd."
+  },
+  {
+   "value": "25%",
+   "label": "Created SLA-aligned incentive and RNR trackers, reducing payout disputes by 25%",
+   "tag": "i-Energizer Pvt. Ltd."
+  },
+  {
+   "value": "40%",
+   "label": "Built data validation and automated reporting tools, reducing errors by 40%",
+   "tag": "Cogent E-Services Pvt. Ltd."
+  },
+  {
+   "value": "15%",
+   "label": "Delivered dashboards to monitor call center SLAs, improving adherence by 15%",
+   "tag": "Cogent E-Services Pvt. Ltd."
+  }
+ ],
+ "skills": [
+  {
+   "group": "BI & Data Visualization",
+   "items": [
+    "Power BI",
+    "DAX",
+    "Power Query",
+    "Power Pivot",
+    "KPI Dashboards",
+    "Row Level Security (RLS)",
+    "Looker Studio"
+   ]
+  },
+  {
+   "group": "Data Management & Technical",
+   "items": [
+    "SQL Query",
+    "SQL Server",
+    "Database Management",
+    "ETL Processes",
+    "Star Schema",
+    "Data Cleaning",
+    "Data Validation",
+    "Advanced Excel",
+    "Power Query",
+    "Pivot Tables",
+    "Data Analysis",
+    "Google Sheets"
+   ]
+  },
+  {
+   "group": "Business Analysis & Strategy",
+   "items": [
+    "Requirements Gathering",
+    "Root Cause Analysis",
+    "KPI Definition",
+    "Data Modeling",
+    "Performance Analysis",
+    "User Acceptance Testing (UAT)",
+    "MIS Automation",
+    "BRD (Business Requirement Document)",
+    "FRD (Functional Requirement Document)",
+    "SLA (Service Level Agreement)",
+    "Stakeholder Management"
+   ]
+  }
+ ],
+ "toolYears": [
+  {
+   "tool": "Power BI (DAX, Power Query, Power Pivot)",
+   "years": "6.5 years"
+  },
+  {
+   "tool": "Advanced Excel",
+   "years": "6.5 years"
+  },
+  {
+   "tool": "Google Sheets",
+   "years": "6.5 years"
+  },
+  {
+   "tool": "SQL / SQL Server",
+   "years": "2.5 Years"
+  },
+  {
+   "tool": "AI Tools (ChatGPT, Copilot, Claude)",
+   "years": "2.5 years"
+  }
+ ],
+ "experience": [
+  {
+   "role": "Senior Business Analyst",
+   "company": "Provana India Pvt. Ltd.",
+   "place": "Noida",
+   "period": "Aug 2024 – Present",
+   "tools": [
+    "Power BI",
+    "DAX",
+    "Power Query",
+    "SQL Server",
+    "Advanced Excel",
+    "Business Intelligence",
+    "Google Sheets"
+   ],
+   "bullets": [
+    "Led global business analysis to drive data-driven decisions and process improvements",
+    "Collaborated with stakeholders to gather requirements and define business needs, KPIs, and reporting frameworks.",
+    "Translate business requirements into BRD, FRD, user stories, and data specifications for analytics solutions.",
+    "Designed interactive Power BI dashboards using DAX, Power Query, and advanced data modeling, reducing reporting time by 30%.",
+    "Automate MIS reporting and reporting workflows, reducing manual reporting effort by more than 30%.",
+    "Work closely with data engineers, operations teams, and leadership to deliver scalable reporting solutions"
+   ]
+  },
+  {
+   "role": "Senior Business Analyst",
+   "company": "i-Energizer Pvt. Ltd.",
+   "place": "Noida",
+   "period": "May 2022 – Aug 2024",
+   "tools": [
+    "Power BI",
+    "DAX",
+    "Power Query",
+    "Advanced Excel",
+    "Business Intelligence",
+    "Google Sheets"
+   ],
+   "bullets": [
+    "Delivered business analysis for cross-functional projects, focusing on process improvement and stakeholder alignment",
+    "Built dashboards in Power BI and Excel to boost efficiency and metric visibility",
+    "Automated MIS reports (Daily–YTD), cutting report time from 6 to under 2 hours",
+    "Created SLA-aligned incentive and RNR trackers, reducing payout disputes by 25%",
+    "Developed WBR/MBR dashboards for real-time KPI tracking by leadership"
+   ]
+  },
+  {
+   "role": "Business Analyst",
+   "company": "Cogent E-Services Pvt. Ltd.",
+   "place": "Noida",
+   "period": "Apr 2019 – May 2022",
+   "tools": [
+    "Power BI",
+    "DAX",
+    "Power Query",
+    "Advanced Excel",
+    "Google Sheets"
+   ],
+   "bullets": [
+    "Analyzed business processes and provided insights to improve performance over 2.5 years",
+    "Built data validation and automated reporting tools, reducing errors by 40%",
+    "Delivered dashboards to monitor call center SLAs, improving adherence by 15%",
+    "Worked with cross-functional teams to refine incentive reporting systems",
+    "Supported data-driven strategies by aligning reports with business goals"
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "name": "Hospital Analytics Dashboard (Inpatient & Outpatient)",
+   "url": "https://www.linkedin.com/in/raju-singh-rs/details/projects/1764065906967/single-media-viewer?type=DOCUMENT&profileId=ACoAAF3LD7sBo83R16g0J_n67NzOXBqrxAAgvcE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BpGlBdYOZTD%2BHUusDsc5PVw%3D%3D"
+  },
+  {
+   "name": "Spotify Streaming Analytics Dashboard",
+   "url": "https://www.linkedin.com/in/raju-singh-rs/details/projects/1765363540321/single-media-viewer?type=DOCUMENT&profileId=ACoAAF3LD7sBo83R16g0J_n67NzOXBqrxAAgvcE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BcqdiHWr2SIWxWQOfUBL6yg%3D%3D"
+  },
+  {
+   "name": "Real-Time Weather Analytics Dashboard",
+   "url": "https://www.linkedin.com/in/raju-singh-rs/details/projects/1764065305268/single-media-viewer?type=DOCUMENT&profileId=ACoAAF3LD7sBo83R16g0J_n67NzOXBqrxAAgvcE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BcqdiHWr2SIWxWQOfUBL6yg%3D%3D"
+  },
+  {
+   "name": "Strategic HR Analytics Dashboard",
+   "url": "https://www.linkedin.com/in/raju-singh-rs/details/projects/1764065698615/single-media-viewer?type=DOCUMENT&profileId=ACoAAF3LD7sBo83R16g0J_n67NzOXBqrxAAgvcE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BcqdiHWr2SIWxWQOfUBL6yg%3D%3D"
+  },
+  {
+   "name": "Pizza Sales Performance Analysis",
+   "url": "https://www.linkedin.com/in/raju-singh-rs/overlay/Project/982193349/treasury/?profileId=ACoAAF3LD7sBo83R16g0J_n67NzOXBqrxAAgvcE"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Diploma in Information Technology Enabled Services",
+   "institution": "World Institute of Technology (WIT), Gurugram",
+   "extra": ""
+  },
+  {
+   "degree": "Bachelor of Arts",
+   "institution": "General (BAG) — Indira Gandhi National Open University (IGNOU)",
+   "extra": ""
+  },
+  {
+   "degree": "Senior Secondary (12th Grade)",
+   "institution": "HBSE Board",
+   "extra": "92% (460/500) · First Rank"
+  }
+ ],
+ "certs": [
+  "Microsoft Power BI Data Analyst",
+  "Microsoft Excel",
+  "SQL for Data Analysis",
+  "Looker Studio",
+  "AI and Productivity Tools (ChatGPT, Copilot, Claude AI)"
+ ],
+ "generated": "2026-11-04"
+}
